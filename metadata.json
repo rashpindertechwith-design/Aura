@@ -1,0 +1,9 @@
+{
+  "name": "Aura - Pro Visual Assistant",
+  "description": "An advanced, accessible AI assistant for the blind and low-vision users. Features real-time voice conversation, visual analysis, video understanding, and content creation tools using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
